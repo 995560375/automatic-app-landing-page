@@ -43,12 +43,12 @@ features                                  :
     description                           : 活动前：强大的活动策划工具，让办活动异常简单; 活动时：管理平台，精准曝光给目标用户; 活动时：完成成员管理，报名/取消/筛选/waitlist等; 活动后：收集反馈
     fontawesome_icon_name                 : mobile
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : 活动启发
+    description                           : 推荐周边有趣的目的地; 推荐实时的/有季节性的体验; 一生一次的更震撼的玩法与体验; 其他用户创造的攻略/UGC活动内容与攻略
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+  - title                                 : 社交生态
+    description                           : 参与活动之前，通过平台了解参与者; 通过活动加深认识，成为朋友; 站内讯息/活动群组/爱好群组
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
