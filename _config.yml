@@ -36,20 +36,31 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 参加活动
-    description                           : 发现周围的海量活动;    报名参与你感兴趣的活动;AI 推荐你可能感兴趣的活动;活动参与者质量高/匹配度好
-    description2                          : testtesttest
+    description                           : 发现周围的海量活动;
+    description2                          : 报名参与你感兴趣的活动;
+    description3                          : AI 推荐你可能感兴趣的活动;
+    description4                          : 活动参与者质量高/匹配度好;
     fontawesome_icon_name                 : magic
     
   - title                                 : 组织活动
-    description                           : 活动前：强大的活动策划工具，让办活动异常简单; 活动时：管理平台，精准曝光给目标用户; 活动时：完成成员管理，报名/取消/筛选/waitlist等; 活动后：收集反馈
+    description                           : 活动前：强大的活动策划工具，让办活动异常简单;   
+    description2                          : 活动时：管理平台，精准曝光给目标用户;
+    description3                          : 活动时：完成成员管理，报名/取消/筛选/waitlist等;
+    description4                          : 活动后：收集反馈
     fontawesome_icon_name                 : mobile
 
   - title                                 : 活动启发
-    description                           : 推荐周边有趣的目的地; 推荐实时的/有季节性的体验; 一生一次的更震撼的玩法与体验; 其他用户创造的攻略/UGC活动内容与攻略
+    description                           : 推荐周边有趣的目的地;   
+    description2                          : 推荐实时的/有季节性的体验;
+    description3                          : 一生一次的更震撼的玩法与体验;
+    description4                          : 其他用户创造的攻略/UGC活动内容与攻略
     fontawesome_icon_name                 : play-circle
 
   - title                                 : 社交生态
-    description                           : 参与活动之前，通过平台了解参与者; 通过活动加深认识，成为朋友; 站内讯息/活动群组/爱好群组
+    description                           : 参与活动之前，通过平台了解参与者;  
+    description2                          : 通过活动加深认识，成为朋友;
+    description3                          : 站内讯息/活动群组/爱好群组
+    
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
