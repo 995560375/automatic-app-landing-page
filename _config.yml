@@ -13,7 +13,7 @@ presskit_download_link                    : https://emilbaehr.com               
 app_icon                                  : assets/yay.jpg                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : YayTour 野兔组队                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
-app_description                           : 新人不迷路，单人不孤独 北美华人组队工具，超会玩超爱玩的年轻人都在这里 🏖️旅游/🏄🏻‍♀️户外/🗽城市活动/⛩️文化艺术/🎤桌游唱k
+app_description                           : 新人不迷路，单人不孤独 北美华人组队工具，超会玩超爱玩的年轻人都在这里 #🏖️旅游/🏄🏻‍♀️户外/🗽城市活动/⛩️文化艺术/🎤桌游唱k
 
 enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
