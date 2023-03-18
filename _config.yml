@@ -36,10 +36,11 @@ youtube_username                          :
 features                                  :
 
   - title                                 : 参加活动
-    description                           : 发现周围的海量活动;
-    报名参与你感兴趣的活动;
-    AI 推荐你可能感兴趣的活动;
-    活动参与者质量高/匹配度好
+    description                           : |
+      发现周围的海量活动;
+      报名参与你感兴趣的活动;
+      AI 推荐你可能感兴趣的活动;
+      活动参与者质量高/匹配度好
     fontawesome_icon_name                 : magic
     
   - title                                 : 组织活动
